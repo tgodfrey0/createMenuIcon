@@ -21,4 +21,4 @@ The script must be run as root or sudo
 -f        Set entry categories (end each category with ;) 
 
 ###### Example: 
-./createDesktopIcon -n Ghidra -c \"An NSA decomplier\" -e ./ghidraRun -i ./ghidraIcon -t Application -g Decompiler -s false -f \"Utility;TextEditor;Development;\" 
+sudo ./createDesktopIcon -n Ghidra -c \"An NSA decomplier\" -e ./ghidraRun -i ./ghidraIcon -t Application -g Decompiler -s false -f \"Utility;TextEditor;Development;\" 
