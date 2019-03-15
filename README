@@ -3,7 +3,9 @@
 A simple yet effective C++ script to make a .desktop icon for any file to appear in the Linux menu
 
 #Install
-To install and compile the C++ script run the install.sh file as root/sudo
+To install and compile the C++ script run the bash install file as root/sudo
+
+Run the install file with the prefix of the package manager of your OS
 
 #Note
 The script must be run as root or sudo
