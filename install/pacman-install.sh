@@ -9,3 +9,4 @@ g++ ./createDesktopIcon.cpp -o ./createDesktopIcon
 echo ""
 echo "File has been compiled"
 chmod +u ./createDesktopIcon
+sudo mv ./createDesktopIcon /usr/bins
